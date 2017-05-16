@@ -24,11 +24,11 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Pridi', cursive;
 }
 
 .date {
-    color: #40E0D0
+    color: #828282;
 }
 
 .save {
